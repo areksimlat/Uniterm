@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ten plik jest używany w procesie publikowania/tworzenia pakietu projektu sieci Web. Działanie tego procesu można dostosować,
+edytując ten plik MSBuild. Aby dowiedzieć się więcej na ten temat, odwiedź adres http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://www.uniterm.somee.com/www.uniterm.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>10/27/2015 11:11:54</publishTime>
+    </File>
+    <File Include="bin/Uniterm.dll">
+      <publishTime>10/29/2015 13:08:48</publishTime>
+    </File>
+    <File Include="Icons/clear_icon.png">
+      <publishTime>10/27/2015 15:06:32</publishTime>
+    </File>
+    <File Include="Icons/new_icon.png">
+      <publishTime>10/27/2015 12:06:59</publishTime>
+    </File>
+    <File Include="Icons/op_sekw_icon.png">
+      <publishTime>10/27/2015 15:06:32</publishTime>
+    </File>
+    <File Include="Icons/op_zrown_icon.png">
+      <publishTime>10/27/2015 15:06:32</publishTime>
+    </File>
+    <File Include="Icons/refresh_icon.png">
+      <publishTime>10/27/2015 15:06:32</publishTime>
+    </File>
+    <File Include="Icons/swap_icon.png">
+      <publishTime>10/27/2015 15:06:32</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>10/29/2015 11:45:32</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/27/2015 11:11:55</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>10/29/2015 11:25:17</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/29/2015 13:10:01</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
